@@ -6,8 +6,7 @@ The Local-game Matching Algorithm
 Description
 ---
 The local matching algorithm aims to find the control paths as to solve the structural controllability problem in complex network.
-The detailed information about the LM algorithm is available in the main paper and supplementary information. \
-For more detailed information about the LM algorithm, you can refer to \
+The detailed information about the LM algorithm is available in the main paper and supplementary information: \
 [Enabling Controlling Complex Networks with Local Topological Information](https://www.nature.com/articles/s41598-018-22655-5)\
 \
 Here is a brief introduction to the proposed algorithm: \
